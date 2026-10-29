@@ -7,7 +7,7 @@
       "privacy_policy_url": "",
       "email_feedback_and_report": "",
       "ad_status": true,
-      "ump_consent": false,
+      "ump_consent": true,
       "main_ads": "admob",
       "backup_ads": "facebook",
       "admob": {
