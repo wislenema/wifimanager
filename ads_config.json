@@ -34,7 +34,7 @@
         "devices": "native",
         "analytics": "banner",
         "sms": "native",
-        "settings": "off",
+        "settings": "native",
         "speed_test": "banner",
         "wifi_settings": "banner"
       }
