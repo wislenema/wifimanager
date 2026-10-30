@@ -4,6 +4,7 @@
       "package_name": "com.hahacoba.huaweimifi",
       "status": true,
       "redirect_url": "",
+      "min_version_code": 0,
       "privacy_policy_url": "",
       "email_feedback_and_report": "",
       "ad_status": true,
