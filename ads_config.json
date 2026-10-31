@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "package_name": "com.hahacoba.huaweimifi",
+      "package_name": "com.huaweimifi.mobilewifihilink",
       "status": true,
       "redirect_url": "",
       "min_version_code": 0,
